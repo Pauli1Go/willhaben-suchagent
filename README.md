@@ -19,6 +19,6 @@ und das sogar **direkt aufs Handy** via [ntfy](https://ntfy.sh/).
    Die Benachrichtigungen zu neuen Anzeigen werden automatisch per [ntfy](https://ntfy.sh/) an dein Handy geschickt. Per default ist als Topic willhaben-crawler gewählt.
 
 4. **Achtung**  
-   Um Ratelimits zu vermeiden, stelle die Refreshrate **nicht zu niedrig** ein – besonders dann, wenn viele URLs getrackt werden.
+   Um Ratelimits zu vermeiden, stelle das Refreshintervall **nicht zu niedrig** ein – besonders dann, wenn viele URLs getrackt werden.
 
 ---
